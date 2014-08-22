@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3F7EF7D4-3427-4E9E-AEC4-B3D55869C645</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Imaginarium</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2B5726D1-AA10-412D-B1FA-685D2479327B</key>
+		<string>https://github.com/myqiqiang/Imaginarium.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Imaginarium.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2B5726D1-AA10-412D-B1FA-685D2479327B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/myqiqiang/Imaginarium.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2B5726D1-AA10-412D-B1FA-685D2479327B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2B5726D1-AA10-412D-B1FA-685D2479327B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Imaginarium</string>
+		</dict>
+	</array>
+</dict>
+</plist>
